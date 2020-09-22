@@ -1,3 +1,7 @@
+## 0.3.4
+
+* fix iOS build fail problem
+
 ## 0.3.3
 
 * migrate to the new Android APIs based on FlutterPlugin
